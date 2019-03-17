@@ -151,5 +151,29 @@
 		"wallpaper_site_name":"hdqwalls",
 		"wallpaper_site_url":"http://hdqwalls.com",
 		"wallpaper_url":"https://wallpapersite.com/images/pages/pic_w/17359.jpg"
+	},
+	{	"wallpaper_index":"23",
+		"wallpaper_name":"Starry Sky",
+		"wallpaper_site_name":"wallpaperscraft",
+		"wallpaper_site_url":"http://wallpaperscraft.com",
+		"wallpaper_url":"https://images.wallpaperscraft.com/image/starry_sky_milky_way_stars_glitter_space_118653_1080x1920.jpg"
+	},
+	{	"wallpaper_index":"24",
+		"wallpaper_name":"Milky Way Sky",
+		"wallpaper_site_name":"wallpaperscraft",
+		"wallpaper_site_url":"http://wallpaperscraft.com",
+		"wallpaper_url":"https://images.wallpaperscraft.com/image/galaxy_night_starry_sky_mountains_118126_1080x1920.jpg"
+	},
+	{	"wallpaper_index":"25",
+		"wallpaper_name":"Galaxy Star",
+		"wallpaper_site_name":"wallpaperscraft",
+		"wallpaper_site_url":"http://wallpaperscraft.com",
+		"wallpaper_url":"https://images.wallpaperscraft.com/image/starry_sky_milky_way_stars_night_118495_1080x1920.jpg"
+	},
+	{	"wallpaper_index":"26",
+		"wallpaper_name":"Well Starry Sky",
+		"wallpaper_site_name":"wallpaperscraft",
+		"wallpaper_site_url":"http://wallpaperscraft.com",
+		"wallpaper_url":"https://images.wallpaperscraft.com/image/star_art_sky_night_people_silhouette_98142_1080x1920.jpg"
 	}
 ]
